@@ -1,2 +1,3 @@
 print("Meu primeiro projeto com Git")
-print("Aprendendo Git hoje")
+print("Amanda aprendendo Git")
+print("Mais um teste de commit")
