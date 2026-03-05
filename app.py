@@ -1,1 +1,2 @@
-print ("Meu Primeiro projeto com Git")
+print("Meu primeiro projeto com Git")
+print("Aprendendo Git hoje")
